@@ -15,6 +15,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={manrope.variable}>
       <head>
+        <meta name="yandex-verification" content="c88b745abc6c63cb" />
         <title>Мартин Казино — Martin Casino официальный сайт: играть онлайн, рабочее зеркало</title>
         <meta
           name="description"
